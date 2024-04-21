@@ -1,6 +1,6 @@
 {
-  "name": "05_word_counter",
-  "version": "1.0.0",
+  "name": "word-counter-by-wajid",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "type": "module",
